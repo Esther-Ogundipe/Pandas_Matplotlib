@@ -1,5 +1,5 @@
 # Pandas_Matplotlib
-## Project using python pandas and matplotlib to establish relationships between different variable
+## Project using python pandas and matplotlib to establish relationships between different variables.
 
 I started by cleaning the data. Tasks during this section include:
 - Drop NaN values from DataFrame
